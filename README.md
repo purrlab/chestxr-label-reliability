@@ -1,8 +1,5 @@
 # Annotation Label Reliability and Pathology Detection in Publicly Available Chest X-ray Datasets
 
-This repository contains the code for our thesis project in Spring 2023.
-
-
 ## Abstract
 Deep learning models are becoming more prevalent for pathology detection in medical image analysis, as more large-scale medical image datasets are published. The models are, however, prone to make errors which a human specialist never would, even though they have been shown to obtain a better overall performance. This could be caused by the models learning unintended shortcuts, or that the datasets used for training the models often have labels obtained from medical reports associated with the images and not the actual images, making the labels less reliable for an image classification task. We explore pathology label reliability by comparing image review annotations from different sources on the same images, as well as tube label reliability by providing 1,011 non-expert annotations on chest X-ray images, indicating the presence of four different tube types.
 
